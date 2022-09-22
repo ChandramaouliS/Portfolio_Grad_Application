@@ -14,3 +14,5 @@ and the Search Algorithms:
 2. Binary Search done recursively.
 
 The Main program is a menu-driven program which loops over and over until the user chooses to exit or the program encounters an error.
+
+The .exe file built through Visual studio is available in SearchSort\x64\Debug
